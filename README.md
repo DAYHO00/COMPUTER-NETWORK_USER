@@ -1,7 +1,7 @@
 # Computer Networks – Machine Problems
 
-Introduction to Computer Networks 수업에서 진행한 2개의 머신 과제를 정리했습니다.  
-CRC 기반 오류 검출과 라우팅 알고리즘(Distance Vector, Link State)을 구현하며 네트워크 동작을 학습했습니다.
+- Introduction to Computer Networks 수업에서 진행한 2개의 머신 과제를 정리했습니다.  
+- CRC 기반 오류 검출과 라우팅 알고리즘(Distance Vector, Link State)을 구현하며 네트워크 동작을 학습했습니다.
 
 ---
 
