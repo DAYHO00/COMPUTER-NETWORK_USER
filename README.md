@@ -15,9 +15,9 @@
 ---
 
 ## 🛠 기술 스택
-Language : C / C++
-Compiler : g++
-Environment : Linux (cspro)
+- Language : C / C++
+- Compiler : g++
+- Environment : Linux (cspro)
 
 
 ---
